@@ -1,0 +1,11 @@
+.main{
+    width: 1440px;
+    height: 11606px;
+    background: #FFFCF5;
+}
+.rect1{
+    width: 456px;
+    height: 226.733px;
+    fill: linear-gradient(178deg, #b78c17 4.22%, #F7E6CC 98.53%);
+    filter: drop-shadow(0px 5px 26px #DD8762);
+}
